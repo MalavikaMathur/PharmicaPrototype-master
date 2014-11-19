@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A3AC36EB-B58C-4035-8636-1CCAF99F0B74</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PharmicaPrototype</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9604291476C14EB2FE01BBDA79C517DC8556EC9E</key>
+		<string>https://github.com/MalavikaMathur/PharmicaPrototype-master.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PharmicaPrototype.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9604291476C14EB2FE01BBDA79C517DC8556EC9E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MalavikaMathur/PharmicaPrototype-master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9604291476C14EB2FE01BBDA79C517DC8556EC9E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9604291476C14EB2FE01BBDA79C517DC8556EC9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PharmicaPrototype-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
