@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Program Name</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Compound</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Therapeutic Area</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Indication</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Protocol ID</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Protocol Title</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Short Name</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Phase</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Study Purpose/Type</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Sub Type</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Study Population</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Sub Population</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Compound</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Compound Formulation</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Route of Administration</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Treatment Duration</string>
+		<string></string>
+	</array>
+	<array>
+		<string>Lead Investigator</string>
+		<string></string>
+	</array>
+</array>
+</plist>

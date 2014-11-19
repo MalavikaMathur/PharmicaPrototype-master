@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>IMPD</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>BLA Submission</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>BLA Approval</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>eIND Submission</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>eIND Approval</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>IND Submission</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>IND Approval</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>INDa Submission</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>INDa Approval</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>NDA Submission</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>NDA Approval</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>sNDA Submission</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>sNDA Approval</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>JNDA Submission</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+</array>
+</plist>

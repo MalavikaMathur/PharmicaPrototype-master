@@ -1,0 +1,753 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3488DC9E1A02D34E00182E8B /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 3488DC9D1A02D34E00182E8B /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png */; };
+		34A4A96B19F9770E00DAE909 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A96A19F9770E00DAE909 /* main.m */; };
+		34A4A96E19F9770E00DAE909 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A96D19F9770E00DAE909 /* AppDelegate.m */; };
+		34A4A97119F9770E00DAE909 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A97019F9770E00DAE909 /* ViewController.m */; };
+		34A4A97619F9770E00DAE909 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34A4A97519F9770E00DAE909 /* Images.xcassets */; };
+		34A4A98519F9770E00DAE909 /* PharmicaPrototypeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A98419F9770E00DAE909 /* PharmicaPrototypeTests.m */; };
+		34A4A9B219FAC39400DAE909 /* Screen Shot 2014-10-21 at 11.24.54 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4A9B119FAC39400DAE909 /* Screen Shot 2014-10-21 at 11.24.54 AM.png */; };
+		34A4A9BA19FD56BC00DAE909 /* export.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34A4A9B619FD56BC00DAE909 /* export.jpg */; };
+		34A4A9BB19FD56BC00DAE909 /* export.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4A9B719FD56BC00DAE909 /* export.png */; };
+		34A4A9BC19FD56BC00DAE909 /* investigator for institute.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34A4A9B819FD56BC00DAE909 /* investigator for institute.jpg */; };
+		34A4A9BD19FD56BC00DAE909 /* Studies associated with country.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4A9B919FD56BC00DAE909 /* Studies associated with country.png */; };
+		34A4A9C919FE8C9900DAE909 /* ViewWithTable.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A9C819FE8C9900DAE909 /* ViewWithTable.m */; };
+		34A4A9CB19FEB0AD00DAE909 /* ProgramsRegulatoryMilestones.plist in Resources */ = {isa = PBXBuildFile; fileRef = 34A4A9CA19FEB0AD00DAE909 /* ProgramsRegulatoryMilestones.plist */; };
+		34A4A9CE19FEBCA000DAE909 /* myTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A9CD19FEBCA000DAE909 /* myTableViewCell.m */; };
+		34A4A9D119FEDD9200DAE909 /* popoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A9D019FEDD9200DAE909 /* popoverView.m */; };
+		34A4A9D419FEE38D00DAE909 /* ProgramsVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A9D319FEE38D00DAE909 /* ProgramsVC.m */; };
+		34A4A9D619FFE81A00DAE909 /* ProgramsClinicalMilestones.plist in Resources */ = {isa = PBXBuildFile; fileRef = 34A4A9D519FFE81A00DAE909 /* ProgramsClinicalMilestones.plist */; };
+		34A4A9D91A0007D100DAE909 /* FormSheetView.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A9D81A0007D100DAE909 /* FormSheetView.m */; };
+		34A4A9DC1A00284000DAE909 /* PickerInputPopover.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A9DB1A00284000DAE909 /* PickerInputPopover.m */; };
+		34A4A9E31A01675C00DAE909 /* singleton.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4A9E21A01675C00DAE909 /* singleton.m */; };
+		34C1B6CC1A029D6600FEFAE3 /* SitesAndPatients.plist in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B6CB1A029D6600FEFAE3 /* SitesAndPatients.plist */; };
+		34C1B6D11A02B06F00FEFAE3 /* ReportsTableVIew.m in Sources */ = {isa = PBXBuildFile; fileRef = 34C1B6D01A02B06F00FEFAE3 /* ReportsTableVIew.m */; };
+		34C1B71D1A02CBF900FEFAE3 /* background_maroon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7061A02CBF900FEFAE3 /* background_maroon.jpg */; };
+		34C1B71E1A02CBF900FEFAE3 /* case-study-vector.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7071A02CBF900FEFAE3 /* case-study-vector.jpg */; };
+		34C1B71F1A02CBF900FEFAE3 /* Content reorder.ico in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7081A02CBF900FEFAE3 /* Content reorder.ico */; };
+		34C1B7201A02CBF900FEFAE3 /* done-icon-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7091A02CBF900FEFAE3 /* done-icon-5.jpg */; };
+		34C1B7221A02CBF900FEFAE3 /* Google_Latitude_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B70B1A02CBF900FEFAE3 /* Google_Latitude_icon.png */; };
+		34C1B7231A02CBF900FEFAE3 /* group_icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B70C1A02CBF900FEFAE3 /* group_icon.jpg */; };
+		34C1B7241A02CBF900FEFAE3 /* Icon-CaseStudy.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B70D1A02CBF900FEFAE3 /* Icon-CaseStudy.png */; };
+		34C1B7261A02CBF900FEFAE3 /* institution-icon-th.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B70F1A02CBF900FEFAE3 /* institution-icon-th.png */; };
+		34C1B7271A02CBF900FEFAE3 /* institutions.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7101A02CBF900FEFAE3 /* institutions.jpg */; };
+		34C1B7291A02CBF900FEFAE3 /* PharmicaIcon29.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7121A02CBF900FEFAE3 /* PharmicaIcon29.png */; };
+		34C1B72A1A02CBF900FEFAE3 /* PharmicaIcon58.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7131A02CBF900FEFAE3 /* PharmicaIcon58.png */; };
+		34C1B72B1A02CBF900FEFAE3 /* places-services-icons.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7141A02CBF900FEFAE3 /* places-services-icons.png */; };
+		34C1B72C1A02CBF900FEFAE3 /* Program Group.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7151A02CBF900FEFAE3 /* Program Group.png */; };
+		34C1B72D1A02CBF900FEFAE3 /* ProgramPlanIcon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7161A02CBF900FEFAE3 /* ProgramPlanIcon.jpg */; };
+		34C1B72E1A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7171A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png */; };
+		34C1B72F1A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7181A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png */; };
+		34C1B7301A02CBF900FEFAE3 /* site performance.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7191A02CBF900FEFAE3 /* site performance.pdf */; };
+		34C1B7311A02CBF900FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B71A1A02CBF900FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf */; };
+		34C1B7321A02CBF900FEFAE3 /* TopBar.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B71B1A02CBF900FEFAE3 /* TopBar.png */; };
+		34C1B7331A02CBF900FEFAE3 /* Waving-pink-flag-icon-1106012004.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B71C1A02CBF900FEFAE3 /* Waving-pink-flag-icon-1106012004.png */; };
+		34C1B74B1A02CCAE00FEFAE3 /* background_maroon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7341A02CCAE00FEFAE3 /* background_maroon.jpg */; };
+		34C1B74C1A02CCAE00FEFAE3 /* case-study-vector.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7351A02CCAE00FEFAE3 /* case-study-vector.jpg */; };
+		34C1B74D1A02CCAE00FEFAE3 /* Content reorder.ico in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7361A02CCAE00FEFAE3 /* Content reorder.ico */; };
+		34C1B74E1A02CCAE00FEFAE3 /* done-icon-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7371A02CCAE00FEFAE3 /* done-icon-5.jpg */; };
+		34C1B7501A02CCAE00FEFAE3 /* Google_Latitude_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7391A02CCAE00FEFAE3 /* Google_Latitude_icon.png */; };
+		34C1B7511A02CCAE00FEFAE3 /* group_icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B73A1A02CCAE00FEFAE3 /* group_icon.jpg */; };
+		34C1B7521A02CCAE00FEFAE3 /* Icon-CaseStudy.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B73B1A02CCAE00FEFAE3 /* Icon-CaseStudy.png */; };
+		34C1B7531A02CCAE00FEFAE3 /* icon-reports.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B73C1A02CCAE00FEFAE3 /* icon-reports.jpg */; };
+		34C1B7541A02CCAE00FEFAE3 /* institution-icon-th.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B73D1A02CCAE00FEFAE3 /* institution-icon-th.png */; };
+		34C1B7551A02CCAE00FEFAE3 /* institutions.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B73E1A02CCAE00FEFAE3 /* institutions.jpg */; };
+		34C1B7561A02CCAE00FEFAE3 /* PharmicaIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B73F1A02CCAE00FEFAE3 /* PharmicaIcon.png */; };
+		34C1B7571A02CCAE00FEFAE3 /* PharmicaIcon29.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7401A02CCAE00FEFAE3 /* PharmicaIcon29.png */; };
+		34C1B7581A02CCAE00FEFAE3 /* PharmicaIcon58.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7411A02CCAE00FEFAE3 /* PharmicaIcon58.png */; };
+		34C1B7591A02CCAE00FEFAE3 /* places-services-icons.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7421A02CCAE00FEFAE3 /* places-services-icons.png */; };
+		34C1B75A1A02CCAE00FEFAE3 /* Program Group.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7431A02CCAE00FEFAE3 /* Program Group.png */; };
+		34C1B75B1A02CCAE00FEFAE3 /* ProgramPlanIcon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7441A02CCAE00FEFAE3 /* ProgramPlanIcon.jpg */; };
+		34C1B75C1A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7451A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png */; };
+		34C1B75D1A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7461A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png */; };
+		34C1B75E1A02CCAE00FEFAE3 /* site performance.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7471A02CCAE00FEFAE3 /* site performance.pdf */; };
+		34C1B75F1A02CCAE00FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7481A02CCAE00FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf */; };
+		34C1B7601A02CCAE00FEFAE3 /* TopBar.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7491A02CCAE00FEFAE3 /* TopBar.png */; };
+		34C1B7611A02CCAE00FEFAE3 /* Waving-pink-flag-icon-1106012004.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B74A1A02CCAE00FEFAE3 /* Waving-pink-flag-icon-1106012004.png */; };
+		34C1B7631A02CDA900FEFAE3 /* SiteStartupStatus.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7621A02CDA900FEFAE3 /* SiteStartupStatus.pdf */; };
+		34C1B7651A02CF9600FEFAE3 /* study startup graph.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 34C1B7641A02CF9600FEFAE3 /* study startup graph.pdf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		34A4A97F19F9770E00DAE909 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 34A4A95D19F9770E00DAE909 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 34A4A96419F9770E00DAE909;
+			remoteInfo = PharmicaPrototype;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3488DC9D1A02D34E00182E8B /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png"; sourceTree = "<group>"; };
+		34A4A96519F9770E00DAE909 /* PharmicaPrototype.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PharmicaPrototype.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		34A4A96919F9770E00DAE909 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34A4A96A19F9770E00DAE909 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		34A4A96C19F9770E00DAE909 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		34A4A96D19F9770E00DAE909 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		34A4A96F19F9770E00DAE909 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		34A4A97019F9770E00DAE909 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		34A4A97319F9770E00DAE909 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		34A4A97519F9770E00DAE909 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		34A4A97819F9770E00DAE909 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		34A4A97E19F9770E00DAE909 /* PharmicaPrototypeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PharmicaPrototypeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		34A4A98319F9770E00DAE909 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34A4A98419F9770E00DAE909 /* PharmicaPrototypeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PharmicaPrototypeTests.m; sourceTree = "<group>"; };
+		34A4A98F19F9778F00DAE909 /* background_maroon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background_maroon.jpg; sourceTree = "<group>"; };
+		34A4A99019F9778F00DAE909 /* case-study-vector.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "case-study-vector.jpg"; sourceTree = "<group>"; };
+		34A4A99119F9778F00DAE909 /* Content reorder.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = "Content reorder.ico"; sourceTree = "<group>"; };
+		34A4A99219F9778F00DAE909 /* done-icon-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "done-icon-5.jpg"; sourceTree = "<group>"; };
+		34A4A99319F9778F00DAE909 /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png"; sourceTree = "<group>"; };
+		34A4A99419F9778F00DAE909 /* Google_Latitude_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Google_Latitude_icon.png; sourceTree = "<group>"; };
+		34A4A99519F9778F00DAE909 /* group_icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = group_icon.jpg; sourceTree = "<group>"; };
+		34A4A99619F9778F00DAE909 /* Icon-CaseStudy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-CaseStudy.png"; sourceTree = "<group>"; };
+		34A4A99719F9778F00DAE909 /* institution-icon-th.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "institution-icon-th.png"; sourceTree = "<group>"; };
+		34A4A99819F9778F00DAE909 /* institutions.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = institutions.jpg; sourceTree = "<group>"; };
+		34A4A99919F9778F00DAE909 /* places-services-icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "places-services-icons.png"; sourceTree = "<group>"; };
+		34A4A99A19F9778F00DAE909 /* Program Group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Program Group.png"; sourceTree = "<group>"; };
+		34A4A99B19F9778F00DAE909 /* ProgramPlanIcon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ProgramPlanIcon.jpg; sourceTree = "<group>"; };
+		34A4A99C19F9778F00DAE909 /* Screen Shot 2014-10-21 at 11.20.01 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-10-21 at 11.20.01 AM.png"; sourceTree = "<group>"; };
+		34A4A99D19F9778F00DAE909 /* Screen Shot 2014-10-21 at 11.59.15 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-10-21 at 11.59.15 AM.png"; sourceTree = "<group>"; };
+		34A4A99E19F9778F00DAE909 /* Waving-pink-flag-icon-1106012004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Waving-pink-flag-icon-1106012004.png"; sourceTree = "<group>"; };
+		34A4A9B119FAC39400DAE909 /* Screen Shot 2014-10-21 at 11.24.54 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-10-21 at 11.24.54 AM.png"; sourceTree = SOURCE_ROOT; };
+		34A4A9B619FD56BC00DAE909 /* export.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = export.jpg; sourceTree = "<group>"; };
+		34A4A9B719FD56BC00DAE909 /* export.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = export.png; sourceTree = "<group>"; };
+		34A4A9B819FD56BC00DAE909 /* investigator for institute.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "investigator for institute.jpg"; sourceTree = "<group>"; };
+		34A4A9B919FD56BC00DAE909 /* Studies associated with country.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Studies associated with country.png"; sourceTree = "<group>"; };
+		34A4A9C719FE8C9900DAE909 /* ViewWithTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewWithTable.h; sourceTree = "<group>"; };
+		34A4A9C819FE8C9900DAE909 /* ViewWithTable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewWithTable.m; sourceTree = "<group>"; };
+		34A4A9CA19FEB0AD00DAE909 /* ProgramsRegulatoryMilestones.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ProgramsRegulatoryMilestones.plist; sourceTree = "<group>"; };
+		34A4A9CC19FEBCA000DAE909 /* myTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = myTableViewCell.h; sourceTree = "<group>"; };
+		34A4A9CD19FEBCA000DAE909 /* myTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = myTableViewCell.m; sourceTree = "<group>"; };
+		34A4A9CF19FEDD9200DAE909 /* popoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = popoverView.h; sourceTree = "<group>"; };
+		34A4A9D019FEDD9200DAE909 /* popoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = popoverView.m; sourceTree = "<group>"; };
+		34A4A9D219FEE38D00DAE909 /* ProgramsVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgramsVC.h; sourceTree = "<group>"; };
+		34A4A9D319FEE38D00DAE909 /* ProgramsVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgramsVC.m; sourceTree = "<group>"; };
+		34A4A9D519FFE81A00DAE909 /* ProgramsClinicalMilestones.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ProgramsClinicalMilestones.plist; sourceTree = SOURCE_ROOT; };
+		34A4A9D71A0007D100DAE909 /* FormSheetView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FormSheetView.h; sourceTree = "<group>"; };
+		34A4A9D81A0007D100DAE909 /* FormSheetView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FormSheetView.m; sourceTree = "<group>"; };
+		34A4A9DA1A00284000DAE909 /* PickerInputPopover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PickerInputPopover.h; sourceTree = "<group>"; };
+		34A4A9DB1A00284000DAE909 /* PickerInputPopover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PickerInputPopover.m; sourceTree = "<group>"; };
+		34A4A9E11A01675C00DAE909 /* singleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = singleton.h; sourceTree = "<group>"; };
+		34A4A9E21A01675C00DAE909 /* singleton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = singleton.m; sourceTree = "<group>"; };
+		34C1B6CB1A029D6600FEFAE3 /* SitesAndPatients.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SitesAndPatients.plist; sourceTree = "<group>"; };
+		34C1B6CF1A02B06F00FEFAE3 /* ReportsTableVIew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReportsTableVIew.h; sourceTree = "<group>"; };
+		34C1B6D01A02B06F00FEFAE3 /* ReportsTableVIew.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReportsTableVIew.m; sourceTree = "<group>"; };
+		34C1B7061A02CBF900FEFAE3 /* background_maroon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background_maroon.jpg; sourceTree = "<group>"; };
+		34C1B7071A02CBF900FEFAE3 /* case-study-vector.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "case-study-vector.jpg"; sourceTree = "<group>"; };
+		34C1B7081A02CBF900FEFAE3 /* Content reorder.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = "Content reorder.ico"; sourceTree = "<group>"; };
+		34C1B7091A02CBF900FEFAE3 /* done-icon-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "done-icon-5.jpg"; sourceTree = "<group>"; };
+		34C1B70A1A02CBF900FEFAE3 /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png"; sourceTree = "<group>"; };
+		34C1B70B1A02CBF900FEFAE3 /* Google_Latitude_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Google_Latitude_icon.png; sourceTree = "<group>"; };
+		34C1B70C1A02CBF900FEFAE3 /* group_icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = group_icon.jpg; sourceTree = "<group>"; };
+		34C1B70D1A02CBF900FEFAE3 /* Icon-CaseStudy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-CaseStudy.png"; sourceTree = "<group>"; };
+		34C1B70E1A02CBF900FEFAE3 /* icon-reports.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "icon-reports.jpg"; sourceTree = "<group>"; };
+		34C1B70F1A02CBF900FEFAE3 /* institution-icon-th.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "institution-icon-th.png"; sourceTree = "<group>"; };
+		34C1B7101A02CBF900FEFAE3 /* institutions.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = institutions.jpg; sourceTree = "<group>"; };
+		34C1B7111A02CBF900FEFAE3 /* PharmicaIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PharmicaIcon.png; sourceTree = "<group>"; };
+		34C1B7121A02CBF900FEFAE3 /* PharmicaIcon29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PharmicaIcon29.png; sourceTree = "<group>"; };
+		34C1B7131A02CBF900FEFAE3 /* PharmicaIcon58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PharmicaIcon58.png; sourceTree = "<group>"; };
+		34C1B7141A02CBF900FEFAE3 /* places-services-icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "places-services-icons.png"; sourceTree = "<group>"; };
+		34C1B7151A02CBF900FEFAE3 /* Program Group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Program Group.png"; sourceTree = "<group>"; };
+		34C1B7161A02CBF900FEFAE3 /* ProgramPlanIcon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ProgramPlanIcon.jpg; sourceTree = "<group>"; };
+		34C1B7171A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-10-21 at 11.20.01 AM.png"; sourceTree = "<group>"; };
+		34C1B7181A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-10-21 at 11.59.15 AM.png"; sourceTree = "<group>"; };
+		34C1B7191A02CBF900FEFAE3 /* site performance.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "site performance.pdf"; sourceTree = "<group>"; };
+		34C1B71A1A02CBF900FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "SITE STARTUP AND DATES REPORTS.pdf"; sourceTree = "<group>"; };
+		34C1B71B1A02CBF900FEFAE3 /* TopBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TopBar.png; sourceTree = "<group>"; };
+		34C1B71C1A02CBF900FEFAE3 /* Waving-pink-flag-icon-1106012004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Waving-pink-flag-icon-1106012004.png"; sourceTree = "<group>"; };
+		34C1B7341A02CCAE00FEFAE3 /* background_maroon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background_maroon.jpg; sourceTree = "<group>"; };
+		34C1B7351A02CCAE00FEFAE3 /* case-study-vector.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "case-study-vector.jpg"; sourceTree = "<group>"; };
+		34C1B7361A02CCAE00FEFAE3 /* Content reorder.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = "Content reorder.ico"; sourceTree = "<group>"; };
+		34C1B7371A02CCAE00FEFAE3 /* done-icon-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "done-icon-5.jpg"; sourceTree = "<group>"; };
+		34C1B7381A02CCAE00FEFAE3 /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png"; sourceTree = "<group>"; };
+		34C1B7391A02CCAE00FEFAE3 /* Google_Latitude_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Google_Latitude_icon.png; sourceTree = "<group>"; };
+		34C1B73A1A02CCAE00FEFAE3 /* group_icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = group_icon.jpg; sourceTree = "<group>"; };
+		34C1B73B1A02CCAE00FEFAE3 /* Icon-CaseStudy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-CaseStudy.png"; sourceTree = "<group>"; };
+		34C1B73C1A02CCAE00FEFAE3 /* icon-reports.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "icon-reports.jpg"; sourceTree = "<group>"; };
+		34C1B73D1A02CCAE00FEFAE3 /* institution-icon-th.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "institution-icon-th.png"; sourceTree = "<group>"; };
+		34C1B73E1A02CCAE00FEFAE3 /* institutions.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = institutions.jpg; sourceTree = "<group>"; };
+		34C1B73F1A02CCAE00FEFAE3 /* PharmicaIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PharmicaIcon.png; sourceTree = "<group>"; };
+		34C1B7401A02CCAE00FEFAE3 /* PharmicaIcon29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PharmicaIcon29.png; sourceTree = "<group>"; };
+		34C1B7411A02CCAE00FEFAE3 /* PharmicaIcon58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PharmicaIcon58.png; sourceTree = "<group>"; };
+		34C1B7421A02CCAE00FEFAE3 /* places-services-icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "places-services-icons.png"; sourceTree = "<group>"; };
+		34C1B7431A02CCAE00FEFAE3 /* Program Group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Program Group.png"; sourceTree = "<group>"; };
+		34C1B7441A02CCAE00FEFAE3 /* ProgramPlanIcon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ProgramPlanIcon.jpg; sourceTree = "<group>"; };
+		34C1B7451A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-10-21 at 11.20.01 AM.png"; sourceTree = "<group>"; };
+		34C1B7461A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-10-21 at 11.59.15 AM.png"; sourceTree = "<group>"; };
+		34C1B7471A02CCAE00FEFAE3 /* site performance.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "site performance.pdf"; sourceTree = "<group>"; };
+		34C1B7481A02CCAE00FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "SITE STARTUP AND DATES REPORTS.pdf"; sourceTree = "<group>"; };
+		34C1B7491A02CCAE00FEFAE3 /* TopBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TopBar.png; sourceTree = "<group>"; };
+		34C1B74A1A02CCAE00FEFAE3 /* Waving-pink-flag-icon-1106012004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Waving-pink-flag-icon-1106012004.png"; sourceTree = "<group>"; };
+		34C1B7621A02CDA900FEFAE3 /* SiteStartupStatus.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = SiteStartupStatus.pdf; sourceTree = "<group>"; };
+		34C1B7641A02CF9600FEFAE3 /* study startup graph.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "study startup graph.pdf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		34A4A96219F9770E00DAE909 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34A4A97B19F9770E00DAE909 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		34A4A95C19F9770E00DAE909 = {
+			isa = PBXGroup;
+			children = (
+				3488DC9D1A02D34E00182E8B /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png */,
+				34C1B7051A02CBD200FEFAE3 /* Images */,
+				34A4A96719F9770E00DAE909 /* PharmicaPrototype */,
+				34A4A98119F9770E00DAE909 /* PharmicaPrototypeTests */,
+				34A4A96619F9770E00DAE909 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		34A4A96619F9770E00DAE909 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				34A4A96519F9770E00DAE909 /* PharmicaPrototype.app */,
+				34A4A97E19F9770E00DAE909 /* PharmicaPrototypeTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		34A4A96719F9770E00DAE909 /* PharmicaPrototype */ = {
+			isa = PBXGroup;
+			children = (
+				34A4A96C19F9770E00DAE909 /* AppDelegate.h */,
+				34A4A96D19F9770E00DAE909 /* AppDelegate.m */,
+				34A4A96F19F9770E00DAE909 /* ViewController.h */,
+				34A4A97019F9770E00DAE909 /* ViewController.m */,
+				34A4A97219F9770E00DAE909 /* Main.storyboard */,
+				34A4A9DA1A00284000DAE909 /* PickerInputPopover.h */,
+				34A4A9DB1A00284000DAE909 /* PickerInputPopover.m */,
+				34A4A9D71A0007D100DAE909 /* FormSheetView.h */,
+				34A4A9D81A0007D100DAE909 /* FormSheetView.m */,
+				34A4A9E11A01675C00DAE909 /* singleton.h */,
+				34A4A9E21A01675C00DAE909 /* singleton.m */,
+				34A4A9D219FEE38D00DAE909 /* ProgramsVC.h */,
+				34A4A9D319FEE38D00DAE909 /* ProgramsVC.m */,
+				34A4A9CF19FEDD9200DAE909 /* popoverView.h */,
+				34A4A9D019FEDD9200DAE909 /* popoverView.m */,
+				34A4A9CA19FEB0AD00DAE909 /* ProgramsRegulatoryMilestones.plist */,
+				34A4A9D519FFE81A00DAE909 /* ProgramsClinicalMilestones.plist */,
+				34C1B6CB1A029D6600FEFAE3 /* SitesAndPatients.plist */,
+				34C1B6CF1A02B06F00FEFAE3 /* ReportsTableVIew.h */,
+				34C1B6D01A02B06F00FEFAE3 /* ReportsTableVIew.m */,
+				34A4A9C719FE8C9900DAE909 /* ViewWithTable.h */,
+				34A4A9C819FE8C9900DAE909 /* ViewWithTable.m */,
+				34A4A9CC19FEBCA000DAE909 /* myTableViewCell.h */,
+				34A4A9CD19FEBCA000DAE909 /* myTableViewCell.m */,
+				34C1B7641A02CF9600FEFAE3 /* study startup graph.pdf */,
+				34A4A9B519FD56BC00DAE909 /* Download All Attachments [Images and the Xcode]-2 */,
+				34A4A9B119FAC39400DAE909 /* Screen Shot 2014-10-21 at 11.24.54 AM.png */,
+				34A4A98E19F9778F00DAE909 /* untitled folder */,
+				34A4A97519F9770E00DAE909 /* Images.xcassets */,
+				34A4A97719F9770E00DAE909 /* LaunchScreen.xib */,
+				34A4A96819F9770E00DAE909 /* Supporting Files */,
+			);
+			path = PharmicaPrototype;
+			sourceTree = "<group>";
+		};
+		34A4A96819F9770E00DAE909 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				34A4A96919F9770E00DAE909 /* Info.plist */,
+				34A4A96A19F9770E00DAE909 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		34A4A98119F9770E00DAE909 /* PharmicaPrototypeTests */ = {
+			isa = PBXGroup;
+			children = (
+				34A4A98419F9770E00DAE909 /* PharmicaPrototypeTests.m */,
+				34A4A98219F9770E00DAE909 /* Supporting Files */,
+			);
+			path = PharmicaPrototypeTests;
+			sourceTree = "<group>";
+		};
+		34A4A98219F9770E00DAE909 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				34A4A98319F9770E00DAE909 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		34A4A98E19F9778F00DAE909 /* untitled folder */ = {
+			isa = PBXGroup;
+			children = (
+				34A4A98F19F9778F00DAE909 /* background_maroon.jpg */,
+				34A4A99019F9778F00DAE909 /* case-study-vector.jpg */,
+				34A4A99119F9778F00DAE909 /* Content reorder.ico */,
+				34A4A99219F9778F00DAE909 /* done-icon-5.jpg */,
+				34A4A99319F9778F00DAE909 /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png */,
+				34A4A99419F9778F00DAE909 /* Google_Latitude_icon.png */,
+				34A4A99519F9778F00DAE909 /* group_icon.jpg */,
+				34A4A99619F9778F00DAE909 /* Icon-CaseStudy.png */,
+				34A4A99719F9778F00DAE909 /* institution-icon-th.png */,
+				34A4A99819F9778F00DAE909 /* institutions.jpg */,
+				34A4A99919F9778F00DAE909 /* places-services-icons.png */,
+				34A4A99A19F9778F00DAE909 /* Program Group.png */,
+				34A4A99B19F9778F00DAE909 /* ProgramPlanIcon.jpg */,
+				34A4A99C19F9778F00DAE909 /* Screen Shot 2014-10-21 at 11.20.01 AM.png */,
+				34A4A99D19F9778F00DAE909 /* Screen Shot 2014-10-21 at 11.59.15 AM.png */,
+				34A4A99E19F9778F00DAE909 /* Waving-pink-flag-icon-1106012004.png */,
+			);
+			name = "untitled folder";
+			path = "../../untitled folder";
+			sourceTree = "<group>";
+		};
+		34A4A9B519FD56BC00DAE909 /* Download All Attachments [Images and the Xcode]-2 */ = {
+			isa = PBXGroup;
+			children = (
+				34A4A9B619FD56BC00DAE909 /* export.jpg */,
+				34A4A9B719FD56BC00DAE909 /* export.png */,
+				34A4A9B819FD56BC00DAE909 /* investigator for institute.jpg */,
+				34A4A9B919FD56BC00DAE909 /* Studies associated with country.png */,
+			);
+			path = "Download All Attachments [Images and the Xcode]-2";
+			sourceTree = SOURCE_ROOT;
+		};
+		34C1B7051A02CBD200FEFAE3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				34C1B7621A02CDA900FEFAE3 /* SiteStartupStatus.pdf */,
+				34C1B7061A02CBF900FEFAE3 /* background_maroon.jpg */,
+				34C1B7071A02CBF900FEFAE3 /* case-study-vector.jpg */,
+				34C1B7081A02CBF900FEFAE3 /* Content reorder.ico */,
+				34C1B7091A02CBF900FEFAE3 /* done-icon-5.jpg */,
+				34C1B70A1A02CBF900FEFAE3 /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png */,
+				34C1B70B1A02CBF900FEFAE3 /* Google_Latitude_icon.png */,
+				34C1B70C1A02CBF900FEFAE3 /* group_icon.jpg */,
+				34C1B70D1A02CBF900FEFAE3 /* Icon-CaseStudy.png */,
+				34C1B70E1A02CBF900FEFAE3 /* icon-reports.jpg */,
+				34C1B70F1A02CBF900FEFAE3 /* institution-icon-th.png */,
+				34C1B7101A02CBF900FEFAE3 /* institutions.jpg */,
+				34C1B7111A02CBF900FEFAE3 /* PharmicaIcon.png */,
+				34C1B7121A02CBF900FEFAE3 /* PharmicaIcon29.png */,
+				34C1B7131A02CBF900FEFAE3 /* PharmicaIcon58.png */,
+				34C1B7141A02CBF900FEFAE3 /* places-services-icons.png */,
+				34C1B7151A02CBF900FEFAE3 /* Program Group.png */,
+				34C1B7161A02CBF900FEFAE3 /* ProgramPlanIcon.jpg */,
+				34C1B7171A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png */,
+				34C1B7341A02CCAE00FEFAE3 /* background_maroon.jpg */,
+				34C1B7351A02CCAE00FEFAE3 /* case-study-vector.jpg */,
+				34C1B7361A02CCAE00FEFAE3 /* Content reorder.ico */,
+				34C1B7371A02CCAE00FEFAE3 /* done-icon-5.jpg */,
+				34C1B7381A02CCAE00FEFAE3 /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png */,
+				34C1B7391A02CCAE00FEFAE3 /* Google_Latitude_icon.png */,
+				34C1B73A1A02CCAE00FEFAE3 /* group_icon.jpg */,
+				34C1B73B1A02CCAE00FEFAE3 /* Icon-CaseStudy.png */,
+				34C1B73C1A02CCAE00FEFAE3 /* icon-reports.jpg */,
+				34C1B73D1A02CCAE00FEFAE3 /* institution-icon-th.png */,
+				34C1B73E1A02CCAE00FEFAE3 /* institutions.jpg */,
+				34C1B73F1A02CCAE00FEFAE3 /* PharmicaIcon.png */,
+				34C1B7401A02CCAE00FEFAE3 /* PharmicaIcon29.png */,
+				34C1B7411A02CCAE00FEFAE3 /* PharmicaIcon58.png */,
+				34C1B7421A02CCAE00FEFAE3 /* places-services-icons.png */,
+				34C1B7431A02CCAE00FEFAE3 /* Program Group.png */,
+				34C1B7441A02CCAE00FEFAE3 /* ProgramPlanIcon.jpg */,
+				34C1B7451A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png */,
+				34C1B7461A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png */,
+				34C1B7471A02CCAE00FEFAE3 /* site performance.pdf */,
+				34C1B7481A02CCAE00FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf */,
+				34C1B7491A02CCAE00FEFAE3 /* TopBar.png */,
+				34C1B74A1A02CCAE00FEFAE3 /* Waving-pink-flag-icon-1106012004.png */,
+				34C1B7181A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png */,
+				34C1B7191A02CBF900FEFAE3 /* site performance.pdf */,
+				34C1B71A1A02CBF900FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf */,
+				34C1B71B1A02CBF900FEFAE3 /* TopBar.png */,
+				34C1B71C1A02CBF900FEFAE3 /* Waving-pink-flag-icon-1106012004.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		34A4A96419F9770E00DAE909 /* PharmicaPrototype */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34A4A98819F9770E00DAE909 /* Build configuration list for PBXNativeTarget "PharmicaPrototype" */;
+			buildPhases = (
+				34A4A96119F9770E00DAE909 /* Sources */,
+				34A4A96219F9770E00DAE909 /* Frameworks */,
+				34A4A96319F9770E00DAE909 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PharmicaPrototype;
+			productName = PharmicaPrototype;
+			productReference = 34A4A96519F9770E00DAE909 /* PharmicaPrototype.app */;
+			productType = "com.apple.product-type.application";
+		};
+		34A4A97D19F9770E00DAE909 /* PharmicaPrototypeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34A4A98B19F9770E00DAE909 /* Build configuration list for PBXNativeTarget "PharmicaPrototypeTests" */;
+			buildPhases = (
+				34A4A97A19F9770E00DAE909 /* Sources */,
+				34A4A97B19F9770E00DAE909 /* Frameworks */,
+				34A4A97C19F9770E00DAE909 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				34A4A98019F9770E00DAE909 /* PBXTargetDependency */,
+			);
+			name = PharmicaPrototypeTests;
+			productName = PharmicaPrototypeTests;
+			productReference = 34A4A97E19F9770E00DAE909 /* PharmicaPrototypeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		34A4A95D19F9770E00DAE909 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = softwaremerchant;
+				TargetAttributes = {
+					34A4A96419F9770E00DAE909 = {
+						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = KKX8KEUZ6R;
+					};
+					34A4A97D19F9770E00DAE909 = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = 34A4A96419F9770E00DAE909;
+					};
+				};
+			};
+			buildConfigurationList = 34A4A96019F9770E00DAE909 /* Build configuration list for PBXProject "PharmicaPrototype" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 34A4A95C19F9770E00DAE909;
+			productRefGroup = 34A4A96619F9770E00DAE909 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				34A4A96419F9770E00DAE909 /* PharmicaPrototype */,
+				34A4A97D19F9770E00DAE909 /* PharmicaPrototypeTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		34A4A96319F9770E00DAE909 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34C1B7611A02CCAE00FEFAE3 /* Waving-pink-flag-icon-1106012004.png in Resources */,
+				34C1B7331A02CBF900FEFAE3 /* Waving-pink-flag-icon-1106012004.png in Resources */,
+				34C1B7501A02CCAE00FEFAE3 /* Google_Latitude_icon.png in Resources */,
+				34C1B7221A02CBF900FEFAE3 /* Google_Latitude_icon.png in Resources */,
+				34C1B74D1A02CCAE00FEFAE3 /* Content reorder.ico in Resources */,
+				34C1B71F1A02CBF900FEFAE3 /* Content reorder.ico in Resources */,
+				34C1B7301A02CBF900FEFAE3 /* site performance.pdf in Resources */,
+				34C1B75E1A02CCAE00FEFAE3 /* site performance.pdf in Resources */,
+				34A4A9BB19FD56BC00DAE909 /* export.png in Resources */,
+				34C1B7541A02CCAE00FEFAE3 /* institution-icon-th.png in Resources */,
+				34C1B7591A02CCAE00FEFAE3 /* places-services-icons.png in Resources */,
+				34C1B7261A02CBF900FEFAE3 /* institution-icon-th.png in Resources */,
+				34C1B72B1A02CBF900FEFAE3 /* places-services-icons.png in Resources */,
+				34C1B7521A02CCAE00FEFAE3 /* Icon-CaseStudy.png in Resources */,
+				34C1B7241A02CBF900FEFAE3 /* Icon-CaseStudy.png in Resources */,
+				34C1B75C1A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png in Resources */,
+				34C1B7551A02CCAE00FEFAE3 /* institutions.jpg in Resources */,
+				34C1B72E1A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.20.01 AM.png in Resources */,
+				34C1B7271A02CBF900FEFAE3 /* institutions.jpg in Resources */,
+				34C1B7581A02CCAE00FEFAE3 /* PharmicaIcon58.png in Resources */,
+				34C1B72A1A02CBF900FEFAE3 /* PharmicaIcon58.png in Resources */,
+				34C1B7651A02CF9600FEFAE3 /* study startup graph.pdf in Resources */,
+				34A4A9D619FFE81A00DAE909 /* ProgramsClinicalMilestones.plist in Resources */,
+				34C1B74C1A02CCAE00FEFAE3 /* case-study-vector.jpg in Resources */,
+				34C1B71E1A02CBF900FEFAE3 /* case-study-vector.jpg in Resources */,
+				34C1B7561A02CCAE00FEFAE3 /* PharmicaIcon.png in Resources */,
+				34C1B75B1A02CCAE00FEFAE3 /* ProgramPlanIcon.jpg in Resources */,
+				34C1B7631A02CDA900FEFAE3 /* SiteStartupStatus.pdf in Resources */,
+				34C1B72D1A02CBF900FEFAE3 /* ProgramPlanIcon.jpg in Resources */,
+				34A4A9BD19FD56BC00DAE909 /* Studies associated with country.png in Resources */,
+				34A4A97619F9770E00DAE909 /* Images.xcassets in Resources */,
+				34A4A9CB19FEB0AD00DAE909 /* ProgramsRegulatoryMilestones.plist in Resources */,
+				34A4A9BC19FD56BC00DAE909 /* investigator for institute.jpg in Resources */,
+				34A4A9B219FAC39400DAE909 /* Screen Shot 2014-10-21 at 11.24.54 AM.png in Resources */,
+				34C1B6CC1A029D6600FEFAE3 /* SitesAndPatients.plist in Resources */,
+				3488DC9E1A02D34E00182E8B /* globe_geography_world_map_education_equipment_learning_object_school_item_college_flat_icon_symbol-512.png in Resources */,
+				34C1B74E1A02CCAE00FEFAE3 /* done-icon-5.jpg in Resources */,
+				34C1B7201A02CBF900FEFAE3 /* done-icon-5.jpg in Resources */,
+				34C1B75A1A02CCAE00FEFAE3 /* Program Group.png in Resources */,
+				34C1B72C1A02CBF900FEFAE3 /* Program Group.png in Resources */,
+				34C1B75F1A02CCAE00FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf in Resources */,
+				34C1B7311A02CBF900FEFAE3 /* SITE STARTUP AND DATES REPORTS.pdf in Resources */,
+				34C1B7601A02CCAE00FEFAE3 /* TopBar.png in Resources */,
+				34C1B7321A02CBF900FEFAE3 /* TopBar.png in Resources */,
+				34C1B7291A02CBF900FEFAE3 /* PharmicaIcon29.png in Resources */,
+				34C1B7571A02CCAE00FEFAE3 /* PharmicaIcon29.png in Resources */,
+				34C1B7531A02CCAE00FEFAE3 /* icon-reports.jpg in Resources */,
+				34C1B7511A02CCAE00FEFAE3 /* group_icon.jpg in Resources */,
+				34C1B7231A02CBF900FEFAE3 /* group_icon.jpg in Resources */,
+				34C1B75D1A02CCAE00FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png in Resources */,
+				34C1B74B1A02CCAE00FEFAE3 /* background_maroon.jpg in Resources */,
+				34C1B72F1A02CBF900FEFAE3 /* Screen Shot 2014-10-21 at 11.59.15 AM.png in Resources */,
+				34C1B71D1A02CBF900FEFAE3 /* background_maroon.jpg in Resources */,
+				34A4A9BA19FD56BC00DAE909 /* export.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34A4A97C19F9770E00DAE909 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		34A4A96119F9770E00DAE909 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34A4A97119F9770E00DAE909 /* ViewController.m in Sources */,
+				34A4A9DC1A00284000DAE909 /* PickerInputPopover.m in Sources */,
+				34A4A9C919FE8C9900DAE909 /* ViewWithTable.m in Sources */,
+				34A4A9E31A01675C00DAE909 /* singleton.m in Sources */,
+				34A4A9D91A0007D100DAE909 /* FormSheetView.m in Sources */,
+				34A4A9D119FEDD9200DAE909 /* popoverView.m in Sources */,
+				34A4A96E19F9770E00DAE909 /* AppDelegate.m in Sources */,
+				34A4A9D419FEE38D00DAE909 /* ProgramsVC.m in Sources */,
+				34C1B6D11A02B06F00FEFAE3 /* ReportsTableVIew.m in Sources */,
+				34A4A96B19F9770E00DAE909 /* main.m in Sources */,
+				34A4A9CE19FEBCA000DAE909 /* myTableViewCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34A4A97A19F9770E00DAE909 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34A4A98519F9770E00DAE909 /* PharmicaPrototypeTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		34A4A98019F9770E00DAE909 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 34A4A96419F9770E00DAE909 /* PharmicaPrototype */;
+			targetProxy = 34A4A97F19F9770E00DAE909 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		34A4A97219F9770E00DAE909 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				34A4A97319F9770E00DAE909 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		34A4A97719F9770E00DAE909 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				34A4A97819F9770E00DAE909 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		34A4A98619F9770E00DAE909 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		34A4A98719F9770E00DAE909 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		34A4A98919F9770E00DAE909 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = PharmicaPrototype/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		34A4A98A19F9770E00DAE909 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = PharmicaPrototype/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		34A4A98C19F9770E00DAE909 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = PharmicaPrototypeTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PharmicaPrototype.app/PharmicaPrototype";
+			};
+			name = Debug;
+		};
+		34A4A98D19F9770E00DAE909 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = PharmicaPrototypeTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PharmicaPrototype.app/PharmicaPrototype";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		34A4A96019F9770E00DAE909 /* Build configuration list for PBXProject "PharmicaPrototype" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34A4A98619F9770E00DAE909 /* Debug */,
+				34A4A98719F9770E00DAE909 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34A4A98819F9770E00DAE909 /* Build configuration list for PBXNativeTarget "PharmicaPrototype" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34A4A98919F9770E00DAE909 /* Debug */,
+				34A4A98A19F9770E00DAE909 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34A4A98B19F9770E00DAE909 /* Build configuration list for PBXNativeTarget "PharmicaPrototypeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34A4A98C19F9770E00DAE909 /* Debug */,
+				34A4A98D19F9770E00DAE909 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 34A4A95D19F9770E00DAE909 /* Project object */;
+}

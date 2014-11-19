@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Preclinical Data Available</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>Program Start</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>Program End</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>First First In Man</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>Clinical Investigator Brochure Available</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>￼End of Phase I</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>Go/No Go - Phase II</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>Phase II Start</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>Go/No Go - Phase III</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>Phase III Start</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>￼Last Patient Last Visit</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>￼Last Data Available</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>￼Combined Technical Document</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<array>
+		<string>Phase IV Start</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+</array>
+</plist>
